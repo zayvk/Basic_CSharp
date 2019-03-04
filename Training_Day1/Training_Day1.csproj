@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Training_Day1.StringMethods</StartupObject>
+    <StartupObject>Training_Day1.Methods</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Methods.cs" />
     <Compile Include="Products.cs" />
     <Compile Include="StringMethods.cs" />
     <Compile Include="Welcome.cs" />
