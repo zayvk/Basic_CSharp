@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Training_Day2.Structures</StartupObject>
+    <StartupObject>Training_Day2.Arrays</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays.cs" />
     <Compile Include="Boxing-UnBoxing.cs" />
     <Compile Include="Conversions.cs" />
     <Compile Include="Structures.cs" />
