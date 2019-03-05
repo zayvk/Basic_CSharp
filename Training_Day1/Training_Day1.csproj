@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Training_Day1.ExceptionHandling</StartupObject>
+    <StartupObject>Training_Day1.CustomException</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -45,8 +45,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomException.cs" />
     <Compile Include="ExceptionHandling.cs" />
     <Compile Include="Methods.cs" />
+    <Compile Include="OddNumberException.cs" />
     <Compile Include="Products.cs" />
     <Compile Include="StringMethods.cs" />
     <Compile Include="Welcome.cs" />
