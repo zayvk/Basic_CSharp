@@ -10,11 +10,12 @@ namespace Training_Day5
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Welcome to GIT");
 
             //Code for Cube
 
-
+                //cydhsaashkjashdjhsajdh
 
 
 
@@ -26,11 +27,11 @@ namespace Training_Day5
 
             //Code for Rectangle
 
+            //hhasdhsakkafukaf
 
 
 
 
-            
         }
     }
 }
