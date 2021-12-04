@@ -10,6 +10,27 @@ namespace Training_Day5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+
+            //Code for Cube
+
+
+
+
+
+            //Code for Sphere
+
+
+
+
+
+            //Code for Rectangle
+
+
+
+
+
+            
         }
     }
 }
