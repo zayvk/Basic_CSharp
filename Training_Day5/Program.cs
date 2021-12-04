@@ -10,7 +10,8 @@ namespace Training_Day5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+
+            Console.WriteLine("Welcome to GIT");
 
             //Code for Cube
 
@@ -20,13 +21,13 @@ namespace Training_Day5
 
             //Code for Sphere
 
-
+            //dfhfjsafbaskjfbsaf
 
 
 
             //Code for Rectangle
 
-
+            //hhasdhsakkafukaf
 
 
 
