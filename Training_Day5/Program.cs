@@ -10,7 +10,7 @@ namespace Training_Day5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("This is Rectangle");
 
             //Code for Cube
 
@@ -26,7 +26,7 @@ namespace Training_Day5
 
             //Code for Rectangle
 
-
+            //hhasdhsakkafukaf
 
 
 
